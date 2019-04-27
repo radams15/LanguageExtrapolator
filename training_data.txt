@@ -1,0 +1,319 @@
+Levels of organisation
+
+In order of increasing complexity, multicellular organisms are made of:
+
+cells → tissues → organs → organ systems
+Structure	Description
+Organelle	A specialised unit within a cell which performs a specific function
+Cell	The basic building block of all living organisms
+Tissue	A group of cells working together to perform a shared function, and often with similar structure
+Organ	A structure made up of groups of different tissues, working together to perform specific functions
+Organ system	A group of organs with related functions, working together to perform certain functions within the body
+
+A diagram of the the circulatory system.An example of the levels of organisation using the circulatory system
+
+The need for exchange surfaces
+
+Organisms must take in food,oxygen and water, and other essential substances, from the environment. Plants also need carbon dioxide for photosynthesis. Organisms also need to remove waste substances.
+
+Small organisms exchange these essential and waste substances between themselves and the environment. They do this over their body surface. Simple chemical substances can diffuse in and out of their bodies.
+
+Inside their bodies, in small organisms, substances don’t have to move far.
+
+The size of their surface, or surface area, defines how quickly they can absorb substances. The size of their volume defines how much of these substances they need.
+Modelling cells
+
+If we represent the cell of an organism by a cube:
+It’s straightforward to model cells using cubes.
+
+This is what happens when the cube increases in size:
+A table showing the different dimensions of a cube
+
+As the volume increases, surface area does not increase at the same rate.
+
+As multicellular organisms increase in size, they face two problems:
+	Problem	Solution to the problem
+Their surface area does not increase as fast as the volume	Insufficient surface area to meet their needs	Body systems that add additional absorbing area to exchange surfaces
+Their volume increases	Diffusion is not quick enough to move substances to where they’re needed in the organism’s body	A transport system
+
+Adaptations of effective exchange surfaces in all organisms
+
+In multicellular organisms, surfaces and body organs are specialised for exchanging materials.
+
+The effectiveness of exchange surfaces in plants and animals is increased by having:
+A large surface area:
+
+    the flattened shape of structures such as leaves
+    the alveoli in the respiratory system
+    the villi in the digestive system
+
+A short distance required for diffusion:
+
+    the membranes of cells
+    the flattened shape of structures such as leaves
+    the walls of blood capillaries are one cell thick
+    the epithelia of alveoli in the respiratory system and the villi in the small intestine are only one cell thick
+
+A large taro leafLarge, flat leaves like this green taro leaf have an effective exchange surface
+
+Animals have additional adaptations for effective exchange surfaces
+
+An efficient blood supply to transport molecules to and from the exchange surface increases effective exchange. Examples of this include:
+
+    the network of blood capillaries that surrounds each alveolus in the lungs
+    the network of blood capillaries in each villus in the small intestine
+
+Diagram of a villus in the small intestineVillus
+
+The process of breathing, or ventilation, brings air to, and removes air from the exchange surface – the alveoli.
+
+The moving blood and ventilated surfaces mean that a steep concentration gradient can be maintained. This increases effective exchange.
+
+The human gas exchange system
+
+The human lungs provide an exchange surface adapted for:
+
+    absorbing oxygen – needed for respiration – into the blood from the air
+    transferring carbon dioxide – produced by respiration – from the blood into the lungs then the air
+
+The lungs are organs enclosed within the chest or thorax. Air needs to be breathed in to be brought into contact with the exchange surfaces within the lungs. This process is called ventilation.
+The structure of the respiratory system
+
+The human respiratory system is adapted to allow air to pass in and out of the body, and for efficient gas exchange to happen.
+
+The lungs are enclosed in the thorax, surrounded and protected by 12 pairs of ribs. The ribs are moved by two sets of intercostal muscles. There is a muscular diaphragm below the lungs. The lungs are sealed within two airtight pleural membranes. These wrap around the lungs and line the rib cage.
+Diagram showing the process of breathing and the components used
+
+The trachea, or windpipe, branches into two bronchi – one bronchus to each lung. Rings of cartilage in the walls of the trachea help to keep it open as air is drawn in.
+
+The bronchi split into smaller branches and then into smaller tubes called bronchioles. Each bronchiole ends in a cluster of microscopic air sacs called alveoli.
+Gaseous exchange
+
+The exchange of gases occurs between the alveoli and blood in the capillaries that supply the lungs. Capillaries cover 70% of the outside of alveoli, providing a large surface area for gases to diffuse across.
+Diagram illustrating the air sacs called alveoli which are attached to bronchioles.
+
+In cross section:
+The alveoli are adapted to provide a very large surface area for gaseous exchange:
+
+The alveoli are adapted to provide a very large surface area for gaseous exchange:
+
+    small size - each alveolus is a small sphere about 300 μm in diameter, giving it a larger surface area to volume ratio than larger structures
+    number - there are around 700 million alveoli – ie 350 million per lung
+
+The total surface area of the alveoli is around 70 square metres.
+
+There is also a short diffusion path - the walls of blood capillaries and alveoli are just one cell thick. The alveoli are also lined with a thin film of moisture. Gases dissolve in this water, making the diffusion path even smaller.
+
+The ventilation of the lungs and the blood flow through the surrounding capillaries mean gases are being removed continually, and steep concentration gradients are set up for gases to diffuse.
+
+
+
+Breathing
+Ventilation
+
+Air is moved into and out of the lungs, as it is carried to and from the exchange surfaces of the alveoli.
+
+The diaphragm and rib cage move to create a lower air pressure in the lungs than that of the air outside the body. Air then rushes into the lungs.
+
+The most important muscle when we inhale normally is the diaphragm. The external intercostal muscles are the second most important muscles. Breathing is a passive process resulting from pressure changes in the lungs.
+This diagram shows the structure of the respiratory system
+
+Breathing in
+
+When we inhale and exhale more forcibly, other muscles are also used
+
+.
+
+Question
+
+    Which are the main muscles involved in normal breathing?
+
+Gills in fish
+
+Water is capable of holding only low concentrations of oxygen, so fish need a different type of exchange system.
+
+The exchange surfaces in fish are gills.
+An image showing the gills from a fish and how they operate
+
+Fish gills
+
+Water is taken in through the fish's mouth, passes over the gills, and then out under the operculum
+
+Exchange of gases in fish is very efficient because of:
+
+    the large surface area of the gills
+    the large surface area of the blood capillaries in each gill filament
+    the short distance required for diffusion – the outer layer of the gill filaments and the capillary walls are just one cell thick
+    the efficient ventilation of the gills with water - there is a counter current flow of water and blood
+
+The moving blood and ventilated gill surfaces mean that gases exchanged are continually removed – oxygen enters the blood, and carbon dioxide removed to the water. High concentration gradients can be maintained.
+
+.Gas exchange is more difficult for fish than animals that live on land. The concentration of oxygen in water is dependent on the temperature of the water. The concentration of oxygen in water is only around 1% at 15°C. This compares with 21% in the air at any temperature. The efficiency of gills has to be - and is - very high - 70 to 80% of the available oxygen is extracted from the water.
+
+Molecules of life
+
+Carbohydrates, proteins, lipids (or fats) are major nutrients that we need in large quantities.
+
+We get these by eating them. They are broken down first and then reassembled into our own carbohydrates, proteins and lipids. This is because:
+
+    most of the molecules in food are too large to pass through the absorbing surface of the gut wall
+    the carbohydrates, proteins and lipids are reassembled in the form required, rather than other animal or plant versions
+
+Nutrient	Major function	Major sources
+Carbohydrates	Source of energy, glucose is the main respiratory substrate	Starch: potatoes, rice and wheat products, bread, cereals and pasta. Sugars: fruit, smoothies, fizzy drinks, chocolate and sweets
+Proteins	Growth and repair	Meat, eggs, cheese, beans, nuts and seeds
+Lipids	Energy, make up part of cell membranes so essential for normal growth	Butter and margarine, meat and processed meat, plant oils, oily fish, nuts and seeds
+
+Structures of carbohydrates, proteins and lipids
+Carbohydrates
+
+Carbohydrates in our diet include sugars and starches.
+Diagram showing the structure of carbohydrates
+
+The glucose molecule is small enough to be absorbed directly through the walls of the digestive system.
+
+Starch is a polymer of glucose. It must be broken down into glucose molecules – it is too large to pass through the gut.
+
+Cellulose is also made up of glucose molecules. It makes up plant cell walls. It is therefore a fundamental part of our diet. It cannot be broken down by the digestive system, so is egested from the gut.
+
+Once absorbed by the body, glucose molecules are transported to cells and:
+
+    used for respiration
+    reassembled into the storage form of carbohydrate in animals - glycogen
+
+In plant metabolism, the glucose produced by photosynthesis is converted into starch for storage, and cellulose, for cell wall synthesis.
+
+In humans and animals glucose is stored in glycogen. It is not converted into starch.
+Proteins
+
+Proteins are made up of amino acids.
+A diagram illustrating amino acids, which are proteins.
+
+Proteins are big molecules that are too large to pass through the gut wall. They must first be broken down into amino acids.
+
+Once inside the body, the amino acids are reassembled into the proteins the individual requires – the process of protein synthesis.
+
+Excess amino acids are broken down in the liver.
+Lipids
+
+Lipids are esters of fatty acids and glycerol.
+A diagram illustrating how lipids are made up of fatty acidsIn a lipid, there may be 1, 2 or 3 fatty acids combined with glycerol. Fatty acids 1, 2 and 3 may be the same, or different
+
+Lipid molecules are too large to pass through the gut wall and must be digested first.
+
+In the body's cells, they are reassembled into the lipids the cell needs, for instance, for the cell membranes.
+
+Required practical activity
+Use qualitative reagents to test for a range of carbohydrates, lipids and proteins
+Qualitative tests for foods
+
+There are several qualitative tests for food chemicals. These can be used to detect the presence of food chemicals, but not how much is present.
+Test for sugars
+
+Benedict's test is used to detect sugars.
+Method
+How Benedict's test detect sugarsHeat in a water bath
+Result
+The results from testing for sugarsAfter heating, it may go through stages - green, yellow, orange, red or brown - depending on how much glucose is present
+
+Sugars classed as reducing sugars will react with Benedict's solution on heating for a few minutes. Glucose is an example of a reducing sugar.
+
+Reducing sugars give a red-brown precipitate with Benedict's solution. The precipitate takes a while to settle in the tube – you're more likely to see simply a red or brown colour. If there's not much glucose present, the final colour may be green or yellow, or orange if there's a little more.
+Hazards
+
+    Wear safety goggles.
+    Benedict's solution is an irritant.
+    Avoid contact with skin and eyes.
+
+Test for starch
+
+Add iodine solution to the food being tested.
+Image of a potato slice and a pipette of iodine being placed on it
+
+Foods containing starch will turn a blue-black colour.
+
+The iodine test can also be used with a microscope to stain starch grains in plant cells.
+Hazards
+
+    Wear safety goggles.
+    Iodine solution is an irritant.
+    Avoid contact with skin and eyes.
+
+Test for proteins
+
+The biuret test is used to detect proteins.
+
+Biuret reagent is sometimes available as a single solution.
+Method
+
+    Add 1 cm3 of biuret solution A to the food solution.
+    Mix the liquids.
+    Add 1 cm3 of biuret solution B and shake.
+
+Results
+A diagram showing the presence of protein in a solution
+
+Hazards
+
+    Wear safety goggles.
+    Biuret solution A is corrosive.
+    Biuret solution B is an irritant.
+    Avoid contact with skin and eyes.
+
+Test for fats
+The Sudan III test
+
+The Sudan III test is one test used to test for lipids.
+Method
+A diagram showing two test tubes containing food and water and Sudan III
+Results
+A diagram showing a test tube. Inside it there is a red layer.
+
+Hazards
+
+    Wear safety goggles.
+    Sudan III solution is flammable as it is dissolved in alcohol.
+    Avoid contact with skin and eyes.
+
+The emulsion test
+
+The emulsion test is an alternative test for lipids.
+Diagram showing how the emulsion test can detect lipids in a solution
+
+Hazards
+
+    Wear safety goggles.
+    Ethanol is flammable.
+    Avoid contact with skin and eyes.
+
+The human digestive system
+
+The human digestive system has two functions:
+
+    breaks down complex food substances
+    provides the very large surface area for maximum absorption of food
+
+The structure of the digestive system
+
+Regions of the digestive system are adapted to the digestion and absorption of food:
+Diagram of the human digestive system
+Digestion
+Region	Function
+Mouth	Begins the digestion of carbohydrates
+Stomach	Begins the digestion of protein; small molecules such as alcohol absorbed
+Small intestine - Duodenum 	Continues the digestion of carbohydrate and protein; begins the digestion of lipids
+Small intestine - Ileum 	Completes the digestion of carbohydrates and proteins into single sugars and amino acids; absorption of single sugars, amino acids and fatty acids and glycerol
+Large intestine	Absorption of water; egestion of undigested food
+
+Digestive enzymes are used to break down food in the gut into small, soluble molecules that can be absorbed through the gut wall.
+Absorption
+
+The surface of the small intestine wall is folded, and has projections called villi.
+Villi is the plural of villus.
+
+The epithelial cells that cover each villus themselves have projections called microvilli.
+Diagram illustrating how lipids pass through the gut wallA close up of the villi in the small intestineDiagram showing how food molecules are absorbedCross-section of a villus
+
+These all increase the surface area over which digested food – now simple molecules – is absorbed.
+
+Most of the digested food passes through the epithelial cells of the gut wall and is carried by blood to the liver. Digested lipids pass through the gut wall and enter the lacteals.

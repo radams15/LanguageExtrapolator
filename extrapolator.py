@@ -15,3 +15,6 @@ class Extrapolator:
 
     def generate(self, amount, temperature=1):
         return self.gen.generate(amount, temperature=temperature, return_as_list=True)
+
+    def generate_file(self, amount, out_file, temperature=1):
+        self.gen.generate_to_file(out_file, n=amount, temperature=temperature)

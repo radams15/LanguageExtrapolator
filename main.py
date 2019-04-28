@@ -1,11 +1,16 @@
 import extrapolator
 
-LEARN_TIMES = 1
-NUMBER_TO_GENERATE = 50
+CFG = {
+	"randomness": 0.1,
+	"learn_times": 5,
+	"gen_amount": 20,
+}
 
 if __name__ == '__main__':
-    e = extrapolator.Extrapolator()
+	e = extrapolator.Extrapolator()
+	
+	data = open("training_data.txt", "r").read().replace("\n", "").split("****")
 
-    e.finetune("training_data.txt", LEARN_TIMES)
-
-    e.generate_file(NUMBER_TO_GENERATE, "trained_output.txt")
+	e.finetune_list(data, cfg=CFG)
+	
+	e.generate_file(CFG["gen_amount"], "out_data.txt", randomness=CFG["randomness"])

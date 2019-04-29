@@ -1,71 +1,59 @@
+There are multiple reasons for this.
 
+    Apple sells about 20 million Macs a year, worldwide.
+    That number has been steady this entire decade. That means there are probably about 150 million Macs in active use, and probably…. what do you figure, 2–3 million Hackintoshes on top of that? It’s a sizable target market, but it’s also pretty small compared to the 1.5 billion+ Windows desktop/laptop computers that are up and running around the world. Despite what may feel like an increase in prominence of Macs in 2018, there were still 18+ not-a-Macs sold for every Mac. This isn’t changing.
+    Apple doesn’t have any server hardware offerings.
+    Which is fine, but it means the Mac has no way of getting a piece of the line-of-business server software action. Don’t underestimate how big of a business this is…. previous companies I’ve worked for sold on-premises LOB software into large firms for $500k+ a year. Windows Server is usually the platform of choice for those products due to strong integration with other corporate security/monitoring systems.
+    Apple doesn’t try very hard to support gaming on the Mac.
+    Like, they make a token effort here and there, but their OpenGL implementation is widely known amongst graphics programmers to be inferior to Windows or Linux. And now that they’re ending further development of OpenGL and aren’t implementing Vulkan….. it’s not going to get better.
+    A lot of developers who aren’t Mac-only, don’t like Apple’s development tools.
+    I could do 3,000 words on this but I’ll take a pass if you don’t mind. But when I read stuff like this lengthy post about how writing plugins for XCode is not officially supported by Apple, but people hack round to it anyways …. I just shake my head. Plugin systems are really core to the sustained success of Sublime, VS, and the Jetbrains IDE products.
+    Many people who do software development on the Mac, are actually targeting Linux or the web browser.
+    All the “full-stack developers” out there who are building REST APIs, business logic, and whatever else, will almost surely be running that code on a Linux server of some sort, not on macOS. I’ve known a number of software developers who have 5+ years of time with the Mac, and I’d say 80% of them have never built something Mac-specific.     Apple has minimal presence in many high-population countries.
+    Never mind the USA, UK, Canada, and western Europe. Think about places Russia, India, China, Brazil, the Phillippines, and Indonesia. That’s, what, 50% of the entire world population? Almost every kid that grew up in these countries 20–25 years ago would’ve never come across a Mac. Instead, kids who got into programming were using Windows…. now those kids are adults, and they tend to stick with what they’re already good at.
 
+    The situation hasn’t changed that much…. kids today are still using Windows, as well as OLPC and Linux and so on.
 
-    Features
-    How it works
-    Testimonials
-    Plans
-    Contact
+There’s also been a couple of major obsolescence road bumps in the last 20 years.
 
-Contact us
-Cheval Fromage!
-Wow! Fromage Made From Chevals?
-Features
-There’s a world to discover with our great features.
-Tasty!
-The fromage is nice, with a hint of lavender, and a touch of chilli salt.
-Stinky!
-They literally smell of rotten corpses, with a touch of friendship.
-Easy to use
-Just heat up at 180 degrees in the oven for 20 minutes, or boil in melted lard, and you'll have a tasty treat in no time!
-Big
-At size 8.5, our Cheval fromages are the largest in the country, with just a touch of acidity.
-Jambon Free!
-At cheval fromage, we do not endorse or have any Jambons in the area. They are starved and hungry when they are left out of fun, yet stop abusing the chevals.
- 
- 
-“I have tried other products that worked fine, but this one is certainly the best of them all. It brings efficiency to a new level of simplicity.”
-Jane Faber, New York
- 
- 
-“If you are looking for a high quality cheese, I highly recommend this one. It is the very best in the field, no compromise.”
-John Smith, Jersey City
- 
- 
-“The first time I tried this cheese, I was hooked. Everything was so fabulous, modern and easy. I’ll never go back to working with any other.”
-Madelaine Taylor, Paris
-Plans
-Find the best plan for your business
-Standard
-£19.99
-Per month 
-Perfect for new companies
-Up to 10 cheese
-Buy Now
-Business
-£29.99
-Per month 
-Perfect for small agencies
-Up to 100 fromages
-Up to 10 chevals
-Buy Now
-Premium
-£39.99
-Per month 
-Perfect for large companies
-Unlimited pain
-Unlimited fromage
-Daily chevals
-Buy Now
-CONTACT US
-We’d love to hear from you. Call us now at ARGHHHHHHH! or send a message using the form below we’ll get back to you as soon as we can.
-NAME
-Message
-Email
-ABOUT US
-This is a cheval fromage website.
-It will bite if fed.
-CONTACT  US
-Area - Dover, Kent
-Phone - ARGHHHHHHH!
-Email - chev@cheval-fromage.co.uk
+    When Apple switched to Mac OS X in 2001, most — but not all — programs written for Mac OS 9 (or earlier) worked for a few years, before Apple removed that capability
+    When Apple switched from PowerPC to Intel chips in the mid-2000s, there was a technology called “Rosetta” which allowed applications written solely for PowerPC to continue to run. That technology was removed about 5 years later.
+    An upcoming version of macOS will no longer support running 32-bit applications whatsoever. This could happen as soon as this year. If you have an older application that wasn’t compiled for 64-bits, it will stop working.
+
+I’ve actually seen this hurt music producers, whereby a favoured but “old” plugin to a popular audio production program like Avid ProTools no longer works on new versions of macOS. There’s no hope in getting it fixed because the company that made it went out of business. Some people in this crowd will actually keep around old Mac Pros (or even Power Mac G5s!!) to get the desired sound.
+
+It burns unextinguishably at extraordinarily high temperatures, after igniting through mere exposure to air. It sticks to your body, allowing its eerie white flames to burn all the way to, and then through your bones, while you helplessly look on. It splatters as it burns, so it’ll still try to get to you if it missed you in the initial strike, all the while making an infernal hissing noise. And even if you somehow survive this, in the end, it will still kill you, because it’s so toxic that a minute quantity in your bloodstream - like through inhaling the fumes - is fatal within an hour.
+
+It was first used in anger on D-Day, by allied ground-attack planes. Their WP-tipped rockets occasionally penetrated the observation slits of German bunkers. The crews inside died some of the most gruesome deaths imaginable. The lucky ones were killed by their own ammo exploding in the heat.
+
+Unlike nuclear weapons, white phosphorus can be produced from stuff that is available at your local chemist or DIY. That’s perhaps its most horrible property.
+
+Cynically, exploding white phosphorus looks like harmless fireworks. So it conveniently tends to avoid the TV coverage backlash its more apocalyptic looking but less vicious cousin napalm had to contend with during the Vietnam War.
+
+Use of white phosphorus against civilian targets (like cities) is banned by the UN. For good reason.
+
+__________
+
+Post Script: I came across this terrifying weapon when reading the witness accounts of German soldiers in “D-Day through German eyes” (2015, Holger Eckhertz). It was unknown to them as well. Some passages are hard to stomach. I did some reading up on WP afterward.
+
+The RAF has the distinction of being the oldest air force in the world. When it was formed in 1918 as an independent service it instantly became the largest and most powerful in the world as well.
+
+Today the RAF has a 'few' planes compared to its peak strength during periods such as WW2 and the Cold War. But it continues as a powerful and highly advanced air force defending British skies and taking part in multiple NATO, joint out-of-area operations with the US, and independent operations where necessary in defence of British holdings.
+
+The RAF fell below 1000 aircraft for the first time in decades some years ago, and was the cause of much angst and soul searching, with many bemoaning the decline of a premier fighting arm of the British.
+
+While it's true that the RAF has had to deal with budget cuts, declining personnel and increasing workload, and fewer combat aircraft the service kept fighting and strategizing.
+
+It seems to have now stabilized at some 33,000+ personal and 2000+ auxillary personal and a combat strength of about 830 aircraft.
+
+While fewer in number than at any point in a long time, the RAF has focused on building or buying extremely advanced equipment, emphasizing quality as a virtue since it was denied funding for both quality and quantity.
+
+The RAF now fields roughly 140+ Typhoons, most upgraded to the latest tranche standards. Many of the squadrons are dedicated to around the clock air defence of the British mainland. Additionally 138 F-35 Lightings, which BAE had a major hand in developing with the US, is now slated for both RN and RAF service. Approximately one squadron is now in active service. These 294 aircraft (including planned purchases and trainer types) form the core of British strike power. Even though small in number compared to the US, China, Russia, India, Israel, and others, the advanced nature of the platforms and high caliber training of the RAF makes them a formidable force, capable of standing off a major air attack on its homeland and mounting a powerful expeditionary force that few other nations can match.
+
+These prime combat assets are supplemented by 9 long range Voyager tankers, 5 Raytheon Sentinel, 3 Boeing SIGINT and 6 Boeing AEW aircraft. (Some aircraft are not delivered yet, per Wikepedia) Some 10 General Atomics Reapers adds to the combat punch of the RAF.
+
+Heavy lift and tactical transports are substantial, with 20/22 A-400 Atlas, 8 C-17 Globemasters, and 17/18 C-130 Hercules in service. These are up to date models and have proved themselves capable of a high operational tempo, particularly the Globemasters.
+
+Finally, the RAF's fleet of Hawk fast jet trainers, numbering more than 80, are capable of being armed with the excellent ASRAAM IR missile. With these missiles, transonic performance capability and capable avionics the Hawks can offer valuable airspace denial and second line air defence roles when operating in protected British airspace, freeing up the Typhoons and Lightnings for more urgent roles. India, the largest operators of the Hawks, is currently in negotiations with the UK to arm all its Hawks to play a similar role, thereby adding more than 100 day fighters to its fleet in a very cost effective manner. High performance jet trainers armed this way are not usually counted as combat aircraft, so air forces such as the RAF and the IAF actually have significantly more combat capability than official numbers indicate, with over a 100 plus 'invisible' fighters aiding their air defence!
+
+Overall, the RAF, while having less planes, personnel, and funding than it wishes has still done a commendable job of maintaining British air power and keeping them in the first rank of air forces.

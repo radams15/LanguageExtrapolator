@@ -12,7 +12,7 @@ if __name__ == '__main__':
 	
 	data = open("training_data.txt", "r").read()\
 
-	data = data.replace("\n", "").split("****")
+	#data = data.replace("\n", "").split("****")
 
 	e.finetune_list(data, cfg=CFG)
 	

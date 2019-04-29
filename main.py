@@ -2,8 +2,8 @@ import extrapolator
 
 CFG = {
 	"randomness": 0.1,
-	"learn_times": 1,
-	"gen_amount": 1,
+	"learn_times": 20,
+	"gen_amount": 50,
 	"test_amount": 0 # generate while finetuning amount
 }
 

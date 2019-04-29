@@ -16,4 +16,4 @@ if __name__ == '__main__':
 
 	e.finetune_list(data, cfg=CFG)
 	
-	e.generate_file(CFG["gen_amount"], "out_data.txt", randomness=CFG["randomness"], prefix="Trump Thinks")
+	e.generate_file(CFG["gen_amount"], "out_data.txt", randomness=CFG["randomness"], prefix=None)
